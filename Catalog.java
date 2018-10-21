@@ -288,6 +288,7 @@ public class Catalog {
 
 	public void printMenu() {
 		System.out.println("Welcome to the PhoneBook® app. How you want to procced? "
+				+"\n========================================================"
 				+ "\n1. Type 'load' to load the phone catalog. "
 				+ "\n2. Type 'sn' to search for specific name. "
 				+ "\n3. Type 'st' to search for specific telephone number. "
